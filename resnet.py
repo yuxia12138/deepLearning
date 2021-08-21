@@ -1,7 +1,6 @@
 import torch.nn as nn
 import torch
 from torch.nn.modules import conv
-from torch.nn.modules.linear import Identity
 import math
 
 
